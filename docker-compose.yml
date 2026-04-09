@@ -1,0 +1,16 @@
+services:
+  api:
+    build: .
+    container_name: ml-text-classifier-api
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+
+  app:
+    build: .
+    container_name: ml-text-classifier-app
+    command: streamlit run app/app.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api

@@ -1,0 +1,17 @@
+pandas
+scikit-learn==1.7.0
+great_expectations
+mlflow
+streamlit
+joblib
+matplotlib
+seaborn
+pytest
+jupyter
+nbconvert
+pytest
+pytest-cov
+fastapi
+uvicorn
+requests
+httpx

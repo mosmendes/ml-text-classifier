@@ -287,7 +287,7 @@ Este projeto demonstra prática em:
 ## Autores
 
 **Marcio Leandro**  
-**Mônica Mendes** 
+**Mônica Mendes**  
 **Rudi Modena**  
 Projeto acadêmico/prático com foco em **Machine Learning em Produção / MLOps**.
 

@@ -1,6 +1,6 @@
 # ML Text Classifier
 
-Projeto de **classificação de sentimentos em textos curtos** utilizando **Machine Learning**, com:
+Projeto Acadêmico de **classificação de sentimentos em textos curtos** utilizando **Machine Learning**, com:
 
 - **API REST em FastAPI**
 - **Interface Web em Streamlit**
@@ -8,6 +8,15 @@ Projeto de **classificação de sentimentos em textos curtos** utilizando **Mach
 - **Testes automatizados com Pytest**
 
 Este projeto foi desenvolvido com foco em práticas iniciais de **MLOps**, incluindo organização de artefatos, testes, API, interface de uso e execução em ambiente conteinerizado.
+---
+
+**Link gitub:** https://github.com/mosmendes/ml-text-classifier
+
+## Autores
+
+**Marcio Leandro**  
+**Mônica Mendes**  
+**Rudi Modena**  
 
 ---
 
@@ -284,11 +293,4 @@ Este projeto demonstra prática em:
 
 ---
 
-## Autores
 
-**Marcio Leandro**  
-**Mônica Mendes**  
-**Rudi Modena**  
-Projeto acadêmico/prático com foco em **Machine Learning em Produção / MLOps**.
-
----

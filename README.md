@@ -6,8 +6,6 @@ Projeto Acadêmico de **classificação de sentimentos em textos curtos** utiliz
 - **Interface Web em Streamlit**
 - **Containerização com Docker**
 - **Testes automatizados com Pytest**
-
-Este projeto foi desenvolvido com foco em práticas iniciais de **MLOps**, incluindo organização de artefatos, testes, API, interface de uso e execução em ambiente conteinerizado.
 ---
 
 **Link gitub:** https://github.com/mosmendes/ml-text-classifier
